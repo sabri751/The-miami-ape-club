@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0xaBecAbe7D81e3e0a2e8374537382f44F4dD55513",
-  "SCAN_LINK": "https://etherscan.io/address/0xaBecAbe7D81e3e0a2e8374537382f44F4dD55513",
+  "CONTRACT_ADDRESS": "0xFc6A3348b2035b31b4FD355F0F867F83d4e995e0",
+  "SCAN_LINK": "https://etherscan.io/address/0xfc6a3348b2035b31b4fd355f0f867f83d4e995e0",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",
@@ -9,10 +9,10 @@
   "NFT_NAME": "The Miami Ape Club",
   "SYMBOL": "PM-NFT",
   "MAX_SUPPLY": 999,
-  "WEI_COST": 20000000000000000,
-  "DISPLAY_COST": 0.02,
+  "WEI_COST": 5000000000000000,
+  "DISPLAY_COST": 0.005,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/pixelizen-mobs",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/the-miami-ape-club-v2",
   "SHOW_BACKGROUND": true
 }
